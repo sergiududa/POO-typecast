@@ -1,4 +1,5 @@
-///acesta este primul exemply de typecast
+///acesta este primul exemplu de typecast
+/// si spatiere
 ///commit facut de Sergiu Duda
 
 #include <iostream>
@@ -8,14 +9,10 @@ class A {};
 
 class B {
 public:
-
   B (const A& x) {}
-
   B& operator= (const A& x) {return *this;}
-
   operator A() {return A();}
 };
-
 int main ()
 {
   A foo;
