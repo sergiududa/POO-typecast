@@ -1,2 +1,2 @@
 # POO-typecast
- hai fa la treaba
+ aici vom incarca exemplele
