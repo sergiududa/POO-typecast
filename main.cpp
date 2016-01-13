@@ -1,3 +1,6 @@
+///acesta este primul exemply de typecast
+///commit facut de Sergiu Duda
+
 #include <iostream>
 using namespace std;
 
