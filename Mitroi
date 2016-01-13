@@ -20,7 +20,3 @@ int main () {
   cout << padd->result();
   return 0;
 }
-
-
-//da bravo boss
-//poate asa
